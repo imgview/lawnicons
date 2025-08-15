@@ -2,4 +2,5 @@
 
 <resources>
   <item component="ComponentInfo{com.shinycore.picsaypro/com.shinycore.picsaypro.PicSay}" drawable="picsay_pro" name="PicSay Pro" />
+  <item component="ComponentInfo{com.shinycore.picsaypro/com.shinycore.picsaypro.main}" drawable="picsay_pro" name="PicSay Pro" />
 </resources>
